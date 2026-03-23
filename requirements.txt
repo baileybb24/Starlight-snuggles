@@ -1,4 +1,6 @@
 highrise-bot-sdk==23.1.0
+flask==2.2.5
+werkzeug==2.2.3
+yt-dlp==2024.3.10
 pendulum==2.1.2
-flask
-yt-dlp
+pytz
