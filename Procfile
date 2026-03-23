@@ -1,2 +1,2 @@
 web: python stream.py
-worker: highrise bot:StarlightSnugglesBot $ROOM_ID $API_TOKEN
+worker: python -m highrise bot:StarlightSnugglesBot $ROOM_ID $API_TOKEN
