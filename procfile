@@ -1,1 +1,2 @@
 worker: highrise bot:StarlightSnugglesBot $ROOM_ID $API_TOKEN
+web: python radio_server.pyorker: highrise bot:StarlightSnugglesBot $ROOM_ID $API_TOKEN
