@@ -1,3 +1,0 @@
-highrise-bot-sdk
-flask
-pendulum==2.1.2
